@@ -1,11 +1,9 @@
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
-// 	card := "Ace of Spades"
-// 	card = "Five of Diamonds"
-// 	fmt.Println(card)
-// }
-
-
+func main() {
+	card := "Ace of Spades"
+	card = "Five of Diamonds"
+	fmt.Println(card)
+}
