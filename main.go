@@ -1,15 +1,15 @@
 package main
 
-// import "fmt"
+import "fmt"
 
 func main() {
-	// card := newCard()
+	card := newCard()
 
-	// fmt.Println(card)
-	printState()
+	fmt.Println(card)
+
 }
 
-// func newCard() string {
-// 	return "Five of Diamonds"
+func newCard() string {
+	return "Five of Diamonds"
 
-// }
+}
